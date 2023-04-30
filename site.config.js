@@ -24,7 +24,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://techdeok-log.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
@@ -69,3 +69,5 @@ const CONFIG = {
 }
 
 module.exports = { CONFIG }
+
+https://special-fruit-a67.notion.site/8461fc4137174f0c8603c843a2634e21?v=65f3b237e812452396d75556c5d2e9d1
