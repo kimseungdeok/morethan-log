@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "techdeok-log",
     description: "👊Just Do It",
-    theme: "light", // ['light', 'dark', 'auto']
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
